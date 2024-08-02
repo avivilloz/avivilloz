@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - Javascript
 
 ### Infrastructure:
+- GitHub Actions
+- Jenkins
 - Terraform
 - Ansible
 - Docker
@@ -54,6 +56,6 @@ Here are some ideas to get you started:
 
 ### General Knowledge:
 - Operating Systems (Linux, Windows)
-- System Programming (Asynchronous programming, IPC, Multithreading, Multiprocessing, etc)
-- Networking (concepts, topologies, protocols, models)
+- System Programming (Multiprocessing, Multithreading, IPC, Asynchronous programming)
+- Networking (Concepts, Topologies, Protocols, Models, Layers, Devices)
 - OOP, Desing Patterns, Data Structures
