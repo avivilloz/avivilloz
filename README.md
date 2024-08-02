@@ -26,6 +26,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 - C
 - C++
 - Python
+- Javascript
 
 ### Databases:
 - MySQL
