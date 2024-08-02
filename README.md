@@ -22,7 +22,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 
 ## Technologies:
 
-### Backend:
+### Programming Languages:
 - C
 - C++
 - Python
@@ -44,9 +44,8 @@ I’m a software developer passionate about technology and innovation. I learn a
 - Ansible
 - Docker
 
-### Automation Scripting:
+### Scripting:
 - Bash
-- Python
 
 ### Automation Testing:
 - Python
@@ -57,7 +56,8 @@ I’m a software developer passionate about technology and innovation. I learn a
 - AWS services
 
 ### General Knowledge:
-- Operating Systems (Linux, Windows)
+- Operating Systems (Linux, Windows, Mac, FreeBSD)
+- Linux Distributions (Debian, Ubuntu, Fedora, CentOS, OpenSUSE, Archlinux)
 - System Programming (Multiprocessing, Multithreading, IPC, Asynchronous programming)
 - Networking (Concepts, Topologies, Protocols, Models, Layers, Devices)
 - OOP, Desing Patterns, Data Structures
