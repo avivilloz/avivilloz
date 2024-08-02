@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I’m a dedicated software developer passionate about technology and innovation. I’m detail-oriented and value precision and high quality in my work. I possess a strong understanding of operating systems architectures, networking, development lifecycles, and methodologies. I’m experienced in working with multiple programming languages and technologies across different operating systems and environments, including hands-on experience with various cloud providers and containerization tools.
+
 ## Currently working on:
 - [Cloud Resume](https://github.com/avivilloz/cloud_resume)
 
