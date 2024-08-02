@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a dedicated software developer passionate about technology and innovation. I possess a strong understanding of operating systems architectures, networking, development lifecycles, and methodologies. I’m experienced in working with multiple programming languages and technologies across different operating systems and environments, including hands-on experience with various cloud providers and containerization tools.
+I’m a software developer passionate about technology and innovation. I learn and improve my software programming skills in my free time by building dedicated projects. I'm passionate about automating tasks and building infrastructure. As a hobby, I delve into game development which helps me merge my programming skills with my artistic side. I aspire to build products and services that generate a positive social impact.
 
 ## Currently working on:
 - [Cloud Resume](https://github.com/avivilloz/cloud_resume)
