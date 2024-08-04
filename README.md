@@ -56,9 +56,15 @@ I’m a software developer passionate about technology and innovation. I learn a
 ### Cloud:
 - AWS services
 
+### Networking:
+- ssh, scp, ip, iptables, netcat, tcpdump
+- Rest APIs
+- Postman
+- Wireshark
+
 ### General Knowledge:
 - Operating Systems (Linux, Windows, Mac, FreeBSD)
 - Linux Distributions (Debian, Ubuntu, Fedora, CentOS, OpenSUSE, Archlinux)
 - System Programming (Multiprocessing, Multithreading, IPC, Asynchronous programming)
-- Networking (Concepts, Topologies, Protocols, Models, Layers, Devices)
-- OOP, Desing Patterns, Data Structures
+- Networking Concepts (Concepts, Topologies, Protocols, Models, Layers, Devices)
+- Programming Concepts (OOP, Desing Patterns, Data Structures)
