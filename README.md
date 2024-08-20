@@ -19,6 +19,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 
 ## Currently working on:
 - [Cloud Resume](https://github.com/avivilloz/cloud_resume)
+- [Content Farm](https://github.com/avivilloz/contentfarm)
 
 ## Technologies:
 
