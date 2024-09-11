@@ -47,6 +47,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 - Javascript
 - RestAPIs
 - Postman
+- Selenium
 
 ### Infrastructure:
 
