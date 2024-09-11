@@ -19,12 +19,11 @@ I’m a software developer passionate about technology and innovation. I learn a
 
 ## Recent Worked On:
 
-- [Cloud Resume](https://github.com/avivilloz/cloud_resume)
-- [Subtitles](https://github.com/avivilloz/subtitles)
-- [TTI](https://github.com/avivilloz/tti)
-- [GPT](https://github.com/avivilloz/gpt)
-- [LOG](https://github.com/avivilloz/log)
-- [Utils](https://github.com/avivilloz/utils)
+- [cloud_resume](https://github.com/avivilloz/cloud_resume)
+- [subtitles](https://github.com/avivilloz/subtitles)
+- [tti](https://github.com/avivilloz/tti)
+- [gpt](https://github.com/avivilloz/gpt)
+- [log](https://github.com/avivilloz/log)
 
 ## Technologies:
 
