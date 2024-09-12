@@ -22,6 +22,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 - [cloud_resume](https://github.com/avivilloz/cloud_resume)
 - [subtitles](https://github.com/avivilloz/subtitles)
 - [tti](https://github.com/avivilloz/tti)
+- [easytts](https://github.com/avivilloz/easytts)
 - [gpt](https://github.com/avivilloz/gpt)
 - [log](https://github.com/avivilloz/log)
 
