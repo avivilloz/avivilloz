@@ -20,11 +20,12 @@ I’m a software developer passionate about technology and innovation. I learn a
 ## Recently Worked On:
 
 - [cloud_resume](https://github.com/avivilloz/cloud_resume)
-- [easysub](https://github.com/avivilloz/easysub)
-- [easytti](https://github.com/avivilloz/easytti)
-- [easytts](https://github.com/avivilloz/easytts)
-- [easygpt](https://github.com/avivilloz/easygpt)
-- [easylog](https://github.com/avivilloz/easylog)
+- [video_editor](https://github.com/avivilloz/video_editor)
+- [subtitles_generator](https://github.com/avivilloz/subtitles_generator)
+- [tti_generator](https://github.com/avivilloz/tti_generator)
+- [tts_generator](https://github.com/avivilloz/tts_generator)
+- [g4f_wrapper](https://github.com/avivilloz/g4f_wrapper)
+- [logging_wrapper](https://github.com/avivilloz/logging_wrapper)
 
 ## Technologies:
 
