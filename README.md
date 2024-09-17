@@ -25,7 +25,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 - [subtitle_utils](https://github.com/avivilloz/subtitle_utils)
 - [tti_generator](https://github.com/avivilloz/tti_generator)
 - [tts_generator](https://github.com/avivilloz/tts_generator)
-- [g4f_wrapper](https://github.com/avivilloz/g4f_wrapper)
+- [gpt_utils](https://github.com/avivilloz/gpt_utils)
 - [datetime_utils](https://github.com/avivilloz/datetime_utils)
 - [logging_utils](https://github.com/avivilloz/logging_utils)
 - [common_utils](https://github.com/avivilloz/common_utils)
