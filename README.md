@@ -28,6 +28,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 - [g4f_wrapper](https://github.com/avivilloz/g4f_wrapper)
 - [datetime_utils](https://github.com/avivilloz/datetime_utils)
 - [logging_utils](https://github.com/avivilloz/logging_utils)
+- [common_utils](https://github.com/avivilloz/common_utils)
 
 ## Technologies:
 
