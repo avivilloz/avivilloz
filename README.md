@@ -27,7 +27,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 - [tts_generator](https://github.com/avivilloz/tts_generator)
 - [g4f_wrapper](https://github.com/avivilloz/g4f_wrapper)
 - [datetime_utils](https://github.com/avivilloz/datetime_utils)
-- [logging_wrapper](https://github.com/avivilloz/logging_wrapper)
+- [logging_utils](https://github.com/avivilloz/logging_utils)
 
 ## Technologies:
 
