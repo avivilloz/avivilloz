@@ -21,7 +21,7 @@ I’m a software developer passionate about technology and innovation. I learn a
 
 - [cloud_resume](https://github.com/avivilloz/cloud_resume)
 - [video_editor](https://github.com/avivilloz/video_editor)
-- [image_editor](https://github.com/avivilloz/image_editor)
+- [image_utils](https://github.com/avivilloz/image_utils)
 - [media_uploader](https://github.com/avivilloz/media_uploader)
 - [subtitles_generator](https://github.com/avivilloz/subtitles_generator)
 - [tti_generator](https://github.com/avivilloz/tti_generator)
