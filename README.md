@@ -21,7 +21,6 @@ I’m a software developer passionate about technology and innovation. I learn a
 
 - [cloud_resume](https://github.com/avivilloz/cloud_resume)
 - [video_editor](https://github.com/avivilloz/video_editor)
-- [image_utils](https://github.com/avivilloz/image_utils)
 - [media_uploader](https://github.com/avivilloz/media_uploader)
 - [subtitles_generator](https://github.com/avivilloz/subtitles_generator)
 - [tti_generator](https://github.com/avivilloz/tti_generator)
@@ -30,6 +29,8 @@ I’m a software developer passionate about technology and innovation. I learn a
 - [datetime_utils](https://github.com/avivilloz/datetime_utils)
 - [logging_utils](https://github.com/avivilloz/logging_utils)
 - [common_utils](https://github.com/avivilloz/common_utils)
+- [image_utils](https://github.com/avivilloz/image_utils)
+- [audio_utils](https://github.com/avivilloz/audio_utils)
 
 ## Technologies:
 
